@@ -1,0 +1,4 @@
+baseURL = 'https://regen.lol/'
+languageCode = 'en-us'
+title = 'regen.lol'
+theme = "papermod"
