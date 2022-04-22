@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+        
+body {
+background: rgb(30, 30, 30);
+}
+
+.content {
+font-family: 'Dongle', sans-serif;
+font-size: 1.5em;
+max-width: 500px;
+margin: auto;
+color: rgb(225, 225, 225);
+padding: 10px;
+text-align: center;
+}
+
+.button:link, .button:visited{
+    background-color: rgb(38, 38, 38);
+    color: white;
+    padding: 1px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+}
+.button:hover, .button:active {
+    background-color: rgb(70, 70, 70);
+}
